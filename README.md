@@ -1,16 +1,10 @@
-# template1
+# Learol - Football Club Flutter Website Template
 
-A new Flutter project by Umair.
+### Inspiration from https://www.templatemonsterpreview.com/demo/191923.html
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots:
+![top screen](https://user-images.githubusercontent.com/75219867/134740007-50f1b38e-20f6-4cd7-a0a5-abbb00f353a7.png)![result](https://user-images.githubusercontent.com/75219867/134740015-b90cc0c6-dc21-47eb-805c-54ab0a800bcf.png)
+![players](https://user-images.githubusercontent.com/75219867/134740016-6df4057c-9df8-4e70-a228-ff25141d141b.png)
+![statistics](https://user-images.githubusercontent.com/75219867/134740019-7b2e1aeb-3817-44c1-8926-206e366d6750.png)
+![sponsors](https://user-images.githubusercontent.com/75219867/134740020-cbb5d0b2-fc39-4653-abfd-73b47a79e3bd.png)
+![contact](https://user-images.githubusercontent.com/75219867/134740021-9ede411f-8512-47d9-b048-1c818ccf0403.png)
